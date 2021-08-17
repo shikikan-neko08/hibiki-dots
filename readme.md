@@ -21,6 +21,11 @@
  * [BSPWM](https://github.com/baskerville/bspwm)
  * [Polybar](https://github.com/polybar/polybar)
  * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) (Optional in this case, since i hadn't configure it)        
- * nitrogen      
+ * nitrogen 
+ * [lsd](https://github.com/Peltoche/lsd) ^1     
 
- Several Fonts are also required to display the character correctly. for example : Adobe Source Han and Font Awesome
+ Several Fonts are also required to display the character correctly. for example : Adobe Source Han and Font Awesome     
+
+^1 ls command has been aliased to lsd, you may unlaias it though.
+
+
