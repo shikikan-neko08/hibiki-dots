@@ -11,6 +11,7 @@
 * GTK Theme : Adapta Blue
 * Icons     : Custom Version of papirus
 * OS        : Alter Linux
+* WM        : BSPWM
 * Terminal  : Kitty
 * Shell     : zsh with [Starship Prompt](https://starship.rs/) 
 * Bar       : Polybar
