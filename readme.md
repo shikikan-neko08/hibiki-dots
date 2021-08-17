@@ -22,4 +22,5 @@
  * [Polybar](https://github.com/polybar/polybar)
  * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) (Optional in this case, since i hadn't configure it)        
  * nitrogen      
+
  Several Fonts are also required to display the character correctly. for example : Adobe Source Han and Font Awesome
