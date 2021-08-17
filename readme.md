@@ -16,7 +16,7 @@
 * Bar       : Polybar
 
 # Dependecies
- * [Rofi](https://github.com/Cloudef/bemenu)
+ * [Bemenu](https://github.com/Cloudef/bemenu)
  * [kitty](https://github.com/kovidgoyal/kitty)
  * [BSPWM](https://github.com/baskerville/bspwm)
  * [Polybar](https://github.com/polybar/polybar)
