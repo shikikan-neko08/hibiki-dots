@@ -67,8 +67,8 @@ i3lock \
 --verif-text="確認中"			\
 --wrong-text="もう一度お試しください!"				\
 --noinput-text="入力なし"				\
---lock-text="Locking..."			\
---lockfailed-text="Failed to lock"	\
+--lock-text="ロック..."			\
+--lockfailed-text="ロックに失敗しました"	\
 --radius 120				\
 --ring-width 8.0			\
 --screen 1					\
