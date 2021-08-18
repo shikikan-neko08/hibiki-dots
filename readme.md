@@ -26,7 +26,7 @@
  * [kitty](https://github.com/kovidgoyal/kitty)
  * [BSPWM](https://github.com/baskerville/bspwm)
  * [Polybar](https://github.com/polybar/polybar)
- * [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) (Optional in this case, since i hadn't configure it)
+ * ~~[betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) (Optional in this case, since i hadn't configure it)~~
  * [i3lock-color](https://github.com/Raymo111/i3lock-color) for lockscreen 
  * fortune       
  * nitrogen 
