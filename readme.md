@@ -19,6 +19,7 @@
 * Terminal  : Kitty
 * Shell     : zsh with [Starship Prompt](https://starship.rs/) 
 * Bar       : Polybar
+* lockscreen: i3lock (Archcraft Fork)
 
 # Dependecies
  * [Bemenu](https://github.com/Cloudef/bemenu)
