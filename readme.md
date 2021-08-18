@@ -1,3 +1,5 @@
+![enter image description here](https://github.com/shikikan-neko08/hibiki-dots/blob/main/assets/VirtualBox_Alter%20Linux%20bspwm_19_08_2021_01_52_13.png)
+
 ![enter image description here](https://github.com/shikikan-neko08/hibiki-dots/blob/main/assets/2021-08-17-194139_1360x768_scrot.png) 
 
 ![enter image description here](https://github.com/shikikan-neko08/hibiki-dots/blob/main/assets/2021-08-17-194205_1360x768_scrot.png)  
@@ -5,6 +7,8 @@
 ![enter image description here](https://github.com/shikikan-neko08/hibiki-dots/blob/main/assets/2021-08-17-195102_1360x768_scrot.png)      
 
 ![enter image description here](https://github.com/shikikan-neko08/hibiki-dots/blob/main/assets/2021-08-17-195451_1360x768_scrot.png) 
+
+ 
 
 # Details
 * Font Used : brass mono
