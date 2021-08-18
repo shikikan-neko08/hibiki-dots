@@ -31,6 +31,7 @@
  * fortune       
  * nitrogen 
  * [lsd](https://github.com/Peltoche/lsd) 
+ * Brass Mono Font
 
  Several Fonts are also required to display the character correctly. for example : Adobe Source Han and Font Awesome     
 
