@@ -32,7 +32,10 @@ Print
 # restart bspwm
 super + ctrl + r
 	bspc wm -r
-
+	
+#Lockscreen	
+super + ctrl + x
+	~/.config/scripts/i3lock.sh
 # logout menu
 super + ctrl + q
 	bspc quit
