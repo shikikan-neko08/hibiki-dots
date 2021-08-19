@@ -33,7 +33,9 @@
  * [lsd](https://github.com/Peltoche/lsd) 
  * Brass Mono Font
 
- Several Fonts are also required to display the character correctly. for example : Adobe Source Han and Font Awesome     
+ Several Fonts are also required to display the character correctly. for example : Adobe Source Han and Font Awesome      
+ 
+ the i3lock scripts has 2 version : japanese and english. by default, english scripts will be used. please edit your sxhkd config accordingly.
 
 
 
